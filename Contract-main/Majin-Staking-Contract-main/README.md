@@ -1,0 +1,1 @@
+# Majin-Staking-Contract
